@@ -1,2 +1,1 @@
-print('hello')
-print('goodbye')
+# 10 001st Prime
